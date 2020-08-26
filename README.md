@@ -1,3 +1,3 @@
 # projecthitormiss
 
-    cout<<"NOU"<<endl;
+    Where the main files are located.
