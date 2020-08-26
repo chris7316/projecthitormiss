@@ -20,7 +20,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Update-PremP" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -38,6 +38,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectId" id="1geHvOdzWOa5MaEp4f3AFoD8b6a" />
   <component name="ProjectViewState">
@@ -81,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598469080231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <created>1598469309769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598469309769</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test">
+      <created>1598469454510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598469454510</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +110,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Update-PremP" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -122,13 +137,17 @@
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
     <state x="467" y="171" key="SettingsEditor/0.23.1920.1123@0.23.1920.1123" timestamp="1598468942870" />
-    <state x="560" y="324" key="Vcs.Push.Dialog.v2" timestamp="1598469350079">
+    <state x="379" y="190" width="1200" height="800" key="ShowDiffWithBranchDialog" timestamp="1598469668941">
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
-    <state x="560" y="324" key="Vcs.Push.Dialog.v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598469350079" />
-    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598468610438">
+    <state x="379" y="190" width="1200" height="800" key="ShowDiffWithBranchDialog/0.23.1920.1123@0.23.1920.1123" timestamp="1598469668941" />
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2" timestamp="1598469512931">
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
-    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598468610438" />
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598469512931" />
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598469603550">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598469603550" />
   </component>
 </project>
