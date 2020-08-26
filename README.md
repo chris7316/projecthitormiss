@@ -1,3 +1,3 @@
 # projecthitormiss
 
-    This is Where UI is created.
+    This is where the Encryption Schemes stuff is made.
