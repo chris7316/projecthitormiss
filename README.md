@@ -1,1 +1,3 @@
 # projecthitormiss
+
+    cout<<"NOU"<<endl;

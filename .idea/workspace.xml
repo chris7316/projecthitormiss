@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8286af63-c1c8-48ae-a364-2acd04cfd053" name="Default Changelist" comment="Test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f947e1124a7d56cec901586fc9c7db01538e643c" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1geHvOdzWOa5MaEp4f3AFoD8b6a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8286af63-c1c8-48ae-a364-2acd04cfd053" name="Default Changelist" comment="" />
+      <created>1598468368431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598468368431</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1598468528081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598468528081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1598468604909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598468604909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598468652471">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="424" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1123@0.23.1920.1123" timestamp="1598468652471" />
+    <state x="467" y="171" key="SettingsEditor" timestamp="1598468942870">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="467" y="171" key="SettingsEditor/0.23.1920.1123@0.23.1920.1123" timestamp="1598468942870" />
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2" timestamp="1598468836454">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598468836454" />
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598468610438">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598468610438" />
+  </component>
+</project>
