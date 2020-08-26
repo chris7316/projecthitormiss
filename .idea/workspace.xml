@@ -20,12 +20,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Encryption" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8286af63-c1c8-48ae-a364-2acd04cfd053" name="Default Changelist" comment="Test" />
+    <list default="true" id="8286af63-c1c8-48ae-a364-2acd04cfd053" name="Default Changelist" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="f947e1124a7d56cec901586fc9c7db01538e643c" />
+        <entry key="$PROJECT_DIR$" value="UI" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598469454510</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1598469796359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598469796359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +119,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Encryption" />
                       </list>
                     </value>
                   </entry>
@@ -141,13 +150,13 @@
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
     <state x="379" y="190" width="1200" height="800" key="ShowDiffWithBranchDialog/0.23.1920.1123@0.23.1920.1123" timestamp="1598469668941" />
-    <state x="560" y="324" key="Vcs.Push.Dialog.v2" timestamp="1598469512931">
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2" timestamp="1598470119725">
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
-    <state x="560" y="324" key="Vcs.Push.Dialog.v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598469512931" />
-    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598469603550">
+    <state x="560" y="324" key="Vcs.Push.Dialog.v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598470119725" />
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598471184306">
       <screen x="0" y="23" width="1920" height="1123" />
     </state>
-    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598469603550" />
+    <state x="758" y="505" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1123@0.23.1920.1123" timestamp="1598471184306" />
   </component>
 </project>
